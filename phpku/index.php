@@ -20,6 +20,7 @@
 
   <br><h5> Table Data </h5>
   <br>
+  <h1>Tes 1</h1>
   <table class="table">
     <tbody>
       <?php include 'readdata.php';?>
